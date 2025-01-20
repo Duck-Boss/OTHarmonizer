@@ -1,7 +1,7 @@
 # OTHarmonizer
 Automated construction of hierarchical cell annotation relationships across single-cell transcriptomics datasets using optimal transport
 
-# OTHarmonizer Quick Start Guide
+# Quick Start Guide
 
 ## 1. Preprocess Data
 To begin using OTHarmonizer, first load your dataset using **Scanpy** and perform preprocessing steps such as normalization, log transformation, and identification of highly variable genes.
