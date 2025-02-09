@@ -56,6 +56,6 @@ Finally, use the benchmark function to compare the harmonized tree with the grou
 oth.benchmark(root, ref_tree)
 ```
 
-# Data Available
+# Data Availability
 All datasets are publicly available. The simulated and real-world datasets used in the benchmark are available on [OTHarmonizer figshare](https://figshare.com/articles/dataset/OTHarmonizer/28243205).
 
