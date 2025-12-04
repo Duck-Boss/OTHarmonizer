@@ -1,5 +1,6 @@
 # OTHarmonizer
 Automated construction of hierarchical cell annotation relationships across single-cell transcriptomics datasets using optimal transport
+[Quick start tutorial notebook](https://github.com/Duck-Boss/OTHarmonizer/blob/main/tutorial.ipynb)
 
 # Quick Start Guide
 
