@@ -57,7 +57,7 @@ Finally, use the benchmark function to compare the harmonized tree with the grou
 oth.benchmark(root, ref_tree)
 ```
 
-## Schematic diagrams of these metric can be found here: [AH-F1](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/AH-F1_example.png), [PCBS](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/PCBS_example.png), and [TEDS](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/TEDS_example.png).
+Schematic diagrams of these metric can be found here: [AH-F1](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/AH-F1_example.png), [PCBS](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/PCBS_example.png), and [TEDS](https://github.com/Duck-Boss/OTHarmonizer/blob/main/fig/TEDS_example.png).
 
 # Data Availability
 All datasets are publicly available. The simulated and real-world datasets used in the benchmark are available on [OTHarmonizer figshare](https://figshare.com/articles/dataset/OTHarmonizer/28243205).
